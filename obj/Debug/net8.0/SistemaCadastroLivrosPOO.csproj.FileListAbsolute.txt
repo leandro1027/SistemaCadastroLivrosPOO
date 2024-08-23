@@ -1,0 +1,15 @@
+/home/aluno/webner/SistemaCadastroLivrosPOO/bin/Debug/net8.0/SistemaCadastroLivrosPOO
+/home/aluno/webner/SistemaCadastroLivrosPOO/bin/Debug/net8.0/SistemaCadastroLivrosPOO.deps.json
+/home/aluno/webner/SistemaCadastroLivrosPOO/bin/Debug/net8.0/SistemaCadastroLivrosPOO.runtimeconfig.json
+/home/aluno/webner/SistemaCadastroLivrosPOO/bin/Debug/net8.0/SistemaCadastroLivrosPOO.dll
+/home/aluno/webner/SistemaCadastroLivrosPOO/bin/Debug/net8.0/SistemaCadastroLivrosPOO.pdb
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.AssemblyInfoInputs.cache
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.AssemblyInfo.cs
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.csproj.CoreCompileInputs.cache
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.sourcelink.json
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.dll
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/refint/SistemaCadastroLivrosPOO.dll
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.pdb
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/SistemaCadastroLivrosPOO.genruntimeconfig.cache
+/home/aluno/webner/SistemaCadastroLivrosPOO/obj/Debug/net8.0/ref/SistemaCadastroLivrosPOO.dll
