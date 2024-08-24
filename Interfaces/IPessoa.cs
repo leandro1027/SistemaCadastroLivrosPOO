@@ -2,8 +2,7 @@ namespace SistemaCadastroLivrosPOO;
 
 public interface IPessoa
 {
-	public void ObterInformacoes()
-	{
-		
-	}
+	string Nome { get; set; }
+	string CPF { get; set; }
+	void ObterIdentificacao();
 }

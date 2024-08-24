@@ -11,9 +11,6 @@ public abstract class Pessoa : IPessoa
 		this.Nome = Nome;
 		this.CPF = CPF;
 	}
-	public void ObterInformacoes()
-	{
-		
-	}
-
+	
+	public abstract void ObterIdentificacao();
 }
